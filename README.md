@@ -2,9 +2,9 @@
 
 This is an unofficial repository for the paper, [Speak in the Scene:Diffusion-based Acoustic Scene Transfer toward Immersive Speech Generation](https://arxiv.org/pdf/2406.12688), Interspeech 2024.
 
-<!-- <p align="center">
-  <img src="main_figure.png"/>
-</p> -->
+<p align="center">
+  <img src="fig/ast.png"/>
+</p>
 
 AST: a novel task in generative speech processing, Acoustic Scene Transfer (AST), which aims to transfer acoustic scenes of speech signals to diverse environments.
 
